@@ -1,7 +1,7 @@
 {
-  "name": "webpack-starter",
-  "description: ": "Template for starting webpack apps",
-  "main": "index.js",
+  "name": "track-webpack",
+  "description: ": "App to track calories, meals, and workouts",
+  "main": "app.js",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve"
